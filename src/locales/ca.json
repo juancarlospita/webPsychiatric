@@ -1,0 +1,894 @@
+{
+  "header": {
+    "images": {
+      "medical_center": "Centre mèdic modern",
+      "consultation": "Consulta mèdica moderna"
+    },
+    "flexible_schedule": "Horari flexible per a la teva comoditat",
+    "title": {
+      "team": "EQUIP",
+      "of": "DE",
+      "neuropsychiatry": "NEUROPSIQUIATRIA",
+      "cognitive_disorders": "i Trastorns Cognitius"
+    },
+    "description": "Oferim un servei global en malalties neurològiques i psicològiques amb un enfocament innovador i personalitzat",
+    "buttons": {
+      "appointment": "Demanar cita",
+      "test": "Realitzar test AD8"
+    },
+    "stats": {
+      "years": "Anys d'experiència",
+      "patients": "Pacients atesos",
+      "satisfaction": {
+        "title": "Satisfacció",
+        "value": "98% dels pacients"
+      }
+    }
+  },
+  "services": {
+    "title": "Les Nostres",
+    "title_highlight": "Especialitats",
+    "subtitle": "La neurologia, la psiquiatria i els trastorns cognitius són camps interrelacionats que s'ocupen de la salud mental i el funcionament cerebral",
+    "neurology": {
+      "title": "Neurologia",
+      "description": "Especialitat mèdica dedicada al diagnòstic i tractament dels trastorns del sistema nerviós, incloent el cervell, la medul·la espinal i els nervis perifèrics",
+      "conditions": ["Dolors de cap", "Epilèpsia", "Parkinson", "Alzheimer"]
+    },
+    "psychiatry": {
+      "title": "Psiquiatria",
+      "description": "Branca de la medicina enfocada en la prevenció, diagnòstic i tractament dels trastorns mentals, utilitzant teràpies psicològiques i tractaments farmacològics",
+      "conditions": [
+        "Depressió",
+        "Ansietat",
+        "Trastorn bipolar",
+        "Esquizofrènia"
+      ]
+    },
+    "cognitive": {
+      "title": "Trastorns Cognitius",
+      "description": "Afeccions que impacten les funcions cognitives com el pensament, aprenentatge, memòria, atenció i llenguatge",
+      "conditions": [
+        "Deteriorament cognitiu",
+        "Dèficits de memòria",
+        "TDAH",
+        "Trastorns de l'espectre autista"
+      ]
+    }
+  },
+  "treatments": {
+    "evaluation": {
+      "title": "Avaluació Exhaustiva",
+      "description": "Realitzem proves neuropsicològiques completes i exàmens mèdics detallats per a un diagnòstic precís"
+    },
+    "cognitive": {
+      "title": "Teràpia Cognitiva",
+      "description": "Sessions personalitzades enfocades en millorar les funcions cognitives i el benestar mental"
+    },
+    "lifestyle": {
+      "title": "Canvis en l'Estil de Vida",
+      "description": "Recomanacions personalitzades per mantenir una bona salut cognitiva i mental"
+    }
+  },
+  "contact": {
+    "title": "Demana una",
+    "title_highlight": "Consulta",
+    "subtitle": "El nostre equip està preparat per oferir-te l'atenció especialitzada que necessites. Contacta'ns i t'ajudarem a trobar la millor solució",
+    "phone": {
+      "title": "Telèfon",
+      "value": "+34 93 XXX XX XX",
+      "description": "Atenció telefònica de dilluns a divendres"
+    },
+    "email": {
+      "title": "Correu Electrònic",
+      "value": "info@centremedic.com",
+      "description": "Respondrem en menys de 24 hores"
+    },
+    "location": {
+      "title": "Ubicació",
+      "address": "Passeig de Gràcia, 123",
+      "city": "08008 Barcelona"
+    },
+    "schedule": {
+      "title": "Horari",
+      "days": "Dilluns a Divendres",
+      "hours": "9:00 - 14:00 | 15:00 - 20:00"
+    },
+    "cta": {
+      "title": "Reserva la teva visita",
+      "description": "El nostre equip mèdic especialitzat t'oferirà una atenció personalitzada i adaptada a les teves necessitats. Posa't en contacte amb nosaltres per programar la teva primera visita",
+      "appointment": "Demana Cita",
+      "call": "Truca'ns",
+      "additional": "També pots contactar-nos per WhatsApp o correu electrònic"
+    }
+  },
+  "diagnosis": {
+    "title": "Diagnòstic",
+    "title_highlight": "i Tractament",
+    "description": "El diagnòstic precoç és fonamental per iniciar el tractament al més aviat possible i prevenir un major deteriorament. El nostre enfocament integral combina diferents mètodes terapèutics per obtenir els millors resultats.",
+    "images": {
+      "medical_team": "Equip mèdic"
+    }
+  },
+  "prevention": {
+    "title": "Recomanacions per a la Prevenció",
+    "section_title": "Prevenció",
+    "section_title_highlight": "i Cures",
+    "intro": "Per mantenir una bona salut cognitiva, es recomana:",
+    "conclusion": "La comprensió i el tractament dels trastorns neurològics, psiquiàtrics i cognitius continuen avançant, oferint esperança i millors resultats per als pacients afectats per aquestes condicions.",
+    "images": {
+      "activities": "Activitats preventives"
+    },
+    "tips": [
+      "Realitzar activitats mentals estimulants com llegir o resoldre puzles",
+      "Mantenir relacions socials actives",
+      "Fer exercici regularment",
+      "Seguir una dieta saludable",
+      "Controlar els factors de risc cardiovascular"
+    ]
+  },
+  "team": {
+    "title": "El Nostre",
+    "title_highlight": "Equip Mèdic",
+    "description": "Comptem amb un equip multidisciplinari de professionals altament qualificats i amb àmplia experiència en el tractament de trastorns neurològics i psiquiàtrics.",
+    "buttons": {
+      "learn_more": "Saber més"
+    },
+    "banner": {
+      "title": "Necessites Ajuda Professional?",
+      "description": "El nostre equip multidisciplinari està especialitzat en el diagnòstic i tractament de trastorns neurològics i psiquiàtrics.",
+      "features": {
+        "quick_response": "Resposta Ràpida",
+        "personal_attention": "Atenció Personalitzada",
+        "expert_team": "Equip Expert"
+      },
+      "cta": "Demana una Consulta"
+    },
+    "members": [
+      {
+        "name": "Dr. Xavier Batalla",
+        "role": "Neuròleg i Psiquiatra",
+        "especialidad": "Trastorns cognitius, malaltia d'Alzheimer, malaltia de Parkinson i altres demències",
+        "image": "/assets/drXavierBatalla.jpg",
+        "credentials": "15 anys d'experiència"
+      },
+      {
+        "name": "Dra Isabel Gómez Ruiz",
+        "role": "Neuropsicòloga",
+        "especialidad": "Avaluació i diagnòstic de les alteracions cognitives de pacients amb malalties neurodegeneratives.",
+        "image": "/assets/isabel_gomez_foto.jpg",
+        "credentials": "12 anys d'experiència"
+      },
+      {
+        "name": "Maite Delsors Arasa",
+        "role": "Psicòloga Clínica",
+        "especialidad": "Avaluació i diagnòstic psicològic, teràpies individuals, grupals, de parella i familiars.",
+        "image": "/assets/maite_delsors_foto.jpg",
+        "credentials": "10 anys d'experiència"
+      },
+      {
+        "name": "Valentina Caicedo",
+        "role": "Suport Administratiu",
+        "especialidad": "Atenció al pacient, gestió de documentació mèdica, facturació i gestió d'assegurances.",
+        "image": "./assets/valentinaCaicedo.jpg",
+        "credentials": "13 anys d'experiència"
+      }
+    ]
+  },
+  "navbar": {
+    "phone": "+34 93 439 89 89",
+    "request_appointment": "Demana una cita",
+    "center": "El centre",
+    "team": "Equip",
+    "contact": "Contacte",
+    "ad8": "AD8",
+    "specialties": {
+      "title": "Especialitats",
+      "neurology": "Neurologia",
+      "psychiatry": "Psiquiatria",
+      "neuropsychology": "Neuropsicologia",
+      "psychology": "Psicologia"
+    }
+  },
+  "centre": {
+    "header": {
+      "title": "El nostre",
+      "titleHighlight": "Centre",
+      "description": "Som un equip multidisciplinari especialitzat en neurologia, psiquiatria i psicologia. Oferim una atenció integral i personalitzada per al diagnòstic i tractament de trastorns neurològics i psiquiàtrics.",
+      "imageAlt": "Centre Mèdic"
+    },
+    "about": {
+      "title": "EDRD - Equip de Diagnòstic Ràpid de la Demència",
+      "description1": "Centre especialitzat en el diagnòstic i tractament de la demència i altres trastorns cognitius, dirigit pel Dr. Xavier Batalla, expert en neurologia i psiquiatria. El nostre centre destaca per la seva aproximació innovadora i multidisciplinària en l'avaluació i tractament de pacients amb trastorns neurològics i psiquiàtrics.",
+      "description2": "El nostre enfocament combina la neurologia i la psiquiatria per oferir una visió integral dels trastorns cognitius, permetent un abordatge més complet i precís en el diagnòstic i tractament de les malalties neurodegeneratives. Aquesta perspectiva dual ens permet entendre millor la complexa interacció entre els aspectes neurològics i psiquiàtrics de cada cas.",
+      "description3": "A l'EDRD, entenem que cada pacient és únic i requereix una atenció personalitzada. El nostre equip multidisciplinari treballa de manera coordinada per oferir una avaluació exhaustiva i desenvolupar plans de tractament adaptats a les necessitats específiques de cada persona i la seva família.",
+      "image_alt": "Equip mèdic"
+    },
+    "specialties": {
+      "diagnostic": {
+        "title": "Diagnòstic Integral",
+        "description": "Avaluació completa combinant neurologia i psiquiatria per a un diagnòstic precís i primerenc."
+      },
+      "team": {
+        "title": "Equip Multidisciplinari",
+        "description": "Especialistes en neurologia, psiquiatria, neuropsicologia i rehabilitació cognitiva."
+      },
+      "attention": {
+        "title": "Atenció Ràpida",
+        "description": "Diagnòstic àgil i eficient per iniciar el tractament al més aviat possible."
+      }
+    },
+    "ourSpecialties": {
+      "title": "Les Nostres",
+      "titleHighlight": "Especialitats",
+      "description": "Oferim un servei integral en salut mental i neurològica, amb un equip multidisciplinari d'experts dedicats a proporcionar la millor atenció personalitzada per a cada pacient.",
+      "neurology": {
+        "title": "Neurologia",
+        "description": "Especialitat mèdica dedicada al diagnòstic i tractament dels trastorns del sistema nerviós, incloent el cervell, la medul·la espinal i els nervis perifèrics.",
+        "items": [
+          "Malaltia d'Alzheimer i altres demències",
+          "Malaltia de Parkinson",
+          "Trastorns del moviment"
+        ]
+      },
+      "psychiatry": {
+        "title": "Psiquiatria",
+        "description": "Branca de la medicina enfocada en la prevenció, diagnòstic i tractament dels trastorns mentals, utilitzant teràpies psicològiques i tractaments farmacològics.",
+        "items": [
+          "Trastorns d'ansietat i depressió",
+          "TOC (Trastorn Obsessiu Compulsiu)",
+          "TDAH en adults"
+        ]
+      },
+      "neuropsychology": {
+        "title": "Neuropsicologia",
+        "description": "Ciència que estudia la relació entre el funcionament del cervell i els processos cognitius, emocionals i conductuals.",
+        "items": [
+          "Avaluació neuropsicològica completa",
+          "Rehabilitació cognitiva",
+          "Estimulació cognitiva"
+        ]
+      },
+      "psychology": {
+        "title": "Psicologia",
+        "description": "Utilitzem dos enfocaments terapèutics principals: la teràpia cognitiva-conductual i la teràpia sistèmica.",
+        "items": [
+          "Teràpia individual i familiar",
+          "Suport a cuidadors",
+          "Grups terapèutics"
+        ]
+      }
+    },
+    "facilities": {
+      "title": "Les Nostres",
+      "titleHighlight": "Instal·lacions",
+      "description": "Disposem d'espais moderns i acollidors, dissenyats específicament per oferir el màxim confort i privacitat durant la seva visita. Descobreix el nostre centre i les seves instal·lacions.",
+      "spaces": {
+        "title": "Espais i Equipament",
+        "items": [
+          "Sales especialitzades per a avaluacions neuropsicològiques",
+          "Espais per a teràpia individual i familiar",
+          "Sala de reunions per a sessions grupals"
+        ]
+      },
+      "amenities": {
+        "title": "Comoditats",
+        "items": [
+          "Sala d'espera confortable",
+          "Climatització i il·luminació adequades",
+          "Entorn tranquil i acollidor"
+        ]
+      },
+      "images": {
+        "consultation": {
+          "alt": "Sala de consultes",
+          "title": "Consultes Externes"
+        },
+        "evaluation": {
+          "alt": "Sala d'avaluació",
+          "title": "Sala d'Avaluació Neuropsicològica"
+        },
+        "therapy": {
+          "alt": "Sala de teràpia",
+          "title": "Espai de Teràpia"
+        }
+      },
+      "carousel": {
+        "previous": "Anterior",
+        "next": "Següent",
+        "goToSlide": "Anar a la diapositiva {number}"
+      }
+    },
+    "contact": {
+      "title": "Contacte",
+      "titleHighlight": "i Ubicació",
+      "description": "Estem aquí per ajudar-te. No dubtis en contactar-nos per programar una visita o sol·licitar més informació sobre els nostres serveis. La teva salut és la nostra prioritat.",
+      "contactUs": "Contacta amb Nosaltres",
+      "phone": {
+        "title": "Telèfon i Fax",
+        "number": "Tel: 93 439 89 89",
+        "fax": "Fax: 93 430 19 75",
+        "schedule": "Dilluns a Divendres: 9:00 - 20:00"
+      },
+      "email": {
+        "title": "Correu Electrònic",
+        "address": "info@diagnosticrapiddemencia.com",
+        "response": "Respondrem en menys de 24 hores"
+      },
+      "address": {
+        "title": "Adreça",
+        "street": "C/Rocafort, 241 5è.3ª",
+        "city": "08029 Barcelona"
+      },
+      "schedule": {
+        "title": "Horari",
+        "days": "Dilluns a Divendres",
+        "hours": "9:00 - 14:00 | 15:00 - 20:00"
+      },
+      "requestAppointment": "Demana Cita"
+    },
+    "location": {
+      "mapTitle": "Ubicació del centre",
+      "howToArrive": "Com Arribar-hi",
+      "metro": {
+        "title": "Metro",
+        "lines": "L5 - Entença"
+      },
+      "bus": {
+        "title": "Bus",
+        "lines": "27, 32, H8"
+      },
+      "parking": {
+        "title": "Parking",
+        "description": "A 100m del centre"
+      }
+    }
+  },
+  "teams": {
+    "hero": {
+      "title": "El Nostre",
+      "titleHighlight": "Equip",
+      "description": "Som un equip multidisciplinari d'experts dedicats a oferir una atenció integral i personalitzada en salut mental i neurològica. La nostra passió és ajudar als nostres pacients a millorar la seva qualitat de vida."
+    },
+    "values": {
+      "commitment": {
+        "title": "Compromís",
+        "description": "Dedicació total al benestar i la millora de la qualitat de vida dels nostres pacients."
+      },
+      "experience": {
+        "title": "Experiència",
+        "description": "Anys d'experiència combinada en el diagnòstic i tractament de trastorns neurològics i psiquiàtrics."
+      },
+      "precision": {
+        "title": "Precisió",
+        "description": "Diagnòstic precís i tractament personalitzat per a cada pacient."
+      }
+    },
+    "medicalDirector": {
+      "title": "Director",
+      "titleHighlight": "Mèdic",
+      "imageAlt": "Dr. Xavier Batalla",
+      "role": "Neuròleg-Psiquiatre · Col·l.núm 14141 COMB",
+      "education": {
+        "title": "Formació",
+        "items": [
+          "Llicenciat en Medicina i Cirurgia per la UB",
+          "Títol de Metge Especialista en Neurologia",
+          "Títol de Metge Especialista en Psiquiatria",
+          "Psicoterapeuta Familiar"
+        ]
+      },
+      "specialties": {
+        "neurology": {
+          "title": "Neurologia",
+          "items": [
+            "Trastorns cognitius",
+            "Malaltia d'Alzheimer",
+            "Malaltia de Parkinson"
+          ]
+        },
+        "psychiatry": {
+          "title": "Psiquiatria",
+          "items": ["Ansietat", "Depressió", "TOC", "TDAH"]
+        }
+      }
+    },
+    "specialists": {
+      "title": "Equip",
+      "titleHighlight": "Especialitzat",
+      "isabel": {
+        "name": "Dra. Isabel Gómez-Ruiz",
+        "role": "Neuropsicòloga i Doctora en Psicologia",
+        "imageAlt": "Dra. Isabel Gómez-Ruiz",
+        "description": "Experiència en l'avaluació i diagnòstic de les alteracions cognitives i conductuals de pacients amb malalties neurodegeneratives i trastorns del moviment.",
+        "career": {
+          "title": "Trajectòria Professional",
+          "items": [
+            "Neuropsicòloga adjunta en el Servei de Neurologia del CSI",
+            "Doctora en Psicologia per la Universitat de Barcelona",
+            "Docent i investigadora en Neurolingüística"
+          ]
+        }
+      },
+      "maite": {
+        "name": "Maite Delsors Arasa",
+        "role": "Psicòloga Clínica",
+        "imageAlt": "Maite Delsors",
+        "education": {
+          "title": "Formació",
+          "items": [
+            "Llicenciada en Psicologia per la UB",
+            "Màster en Teràpia Cognitivosocial",
+            "Especialista en Teràpia de parella i familiar"
+          ]
+        },
+        "specialization": {
+          "title": "Especialització",
+          "description": "Especialitzada en avaluació i diagnòstic psicològic, teràpies individuals, grupals, de parella i familiars. Amb especial focus en:",
+          "items": ["Teràpia Cognitivosocial", "Teràpia de Parella i Familiar"]
+        }
+      }
+    },
+    "experience": {
+      "title": "Experiència i",
+      "titleHighlight": "Compromís",
+      "description": "El nostre equip combina anys d'experiència amb una formació constant i un compromís ferm amb la qualitat assistencial i el benestar dels nostres pacients.",
+      "cards": {
+        "attention": {
+          "title": "Atenció Personalitzada",
+          "description": "Cada pacient és únic i mereix un tractament personalitzat. El nostre equip treballa de manera coordinada per oferir la millor atenció possible."
+        },
+        "training": {
+          "title": "Formació Continuada",
+          "description": "Ens mantenim al dia de les últimes novetats i avenços en el camp de la neurologia, psiquiatria i psicologia per oferir els millors tractaments."
+        },
+        "excellence": {
+          "title": "Excel·lència Professional",
+          "description": "El nostre compromís amb l'excel·lència es reflecteix en cada aspecte del nostre treball, des del diagnòstic fins al seguiment del pacient."
+        }
+      }
+    },
+    "contact": {
+      "title": "Necessites Ajuda Professional?",
+      "description": "El nostre equip multidisciplinari està especialitzat en el diagnòstic i tractament de trastorns neurològics i psiquiàtrics.",
+      "features": {
+        "quick": "Resposta Ràpida",
+        "personal": "Atenció Personalitzada",
+        "expert": "Equip Expert"
+      },
+      "cta": "Demana una Consulta"
+    }
+  },
+  "testAD8": {
+    "title": "Test",
+    "subtitle": "Qüestionari de detecció primerenca d'Alzheimer i altres demències",
+    "description": "Aquest test ajuda a identificar possibles signes de deteriorament cognitiu que poden requerir una avaluació professional més detallada.",
+    "info": {
+      "who": {
+        "title": "Qui ha de fer el test?",
+        "description": "L'AD8 ha de ser completat per un familiar o persona propera que conegui bé al pacient i pugui observar canvis en el seu comportament."
+      },
+      "time": {
+        "title": "Temps necessari",
+        "description": "El test és ràpid i senzill, només necessitaràs uns 5-10 minuts per completar-lo. Les preguntes són clares i directes."
+      },
+      "precision": {
+        "title": "Precisió i validesa",
+        "description": "L'AD8 és una eina validada científicament amb una alta sensibilitat per detectar canvis cognitius significatius."
+      }
+    },
+    "questions": [
+      "Problemes per emetre judicis i prendre decisions adequades (p. ex., l'enganyen o estafen, pren decisions financeres errònies, fa regals inapropiats, etc.)",
+      "Pèrdua d'interès en les seves aficions i activitats (p. ex., ha deixat de fer activitats que li agradaven)",
+      "Repeteix les preguntes, els comentaris o les coses que explica",
+      "Dificultat per aprendre a utilitzar eines, aparells o dispositius (p. ex., vídeo o DVD, ordinador, microones, comandaments a distància, telèfon mòbil o sense fil)",
+      "Oblida el mes o any correcte",
+      "Dificultat per gestionar assumptes financers complicats (p. ex., ajustar comptes, talons, impostos, factures, rebuts, etc.)",
+      "Dificultat per recordar les cites i coses que ha de fer",
+      "Els problemes de raonament i/o memòria són quotidians i no ocasionals"
+    ],
+    "options": {
+      "yes": "Sí, ha canviat",
+      "no": "No, no ha canviat",
+      "unknown": "No ho sap / No contesta"
+    },
+    "buttons": {
+      "start": "Començar Test AD8",
+      "next": "Següent",
+      "finish": "Finalitzar Test",
+      "restart": "Reiniciar Test"
+    },
+    "alerts": {
+      "answerAll": "Si us plau, responeu totes les preguntes abans de continuar."
+    },
+    "recommendations": {
+      "contact": "Recomanem contactar amb el nostre equip mèdic per a una avaluació més detallada."
+    },
+    "results": {
+      "title": "Puntuació Total AD8",
+      "normal": "La seva puntuació està dins dels rangs normals.",
+      "contact": "Recomanem contactar amb el nostre equip mèdic per a una avaluació més detallada."
+    },
+    "contact": {
+      "title": "Necessites una Valoració Professional?",
+      "description": "El nostre equip multidisciplinari està especialitzat en el diagnòstic i tractament de trastorns neurològics i psiquiàtrics.",
+      "features": {
+        "quick": "Resposta Ràpida",
+        "personal": "Atenció Personalitzada",
+        "expert": "Equip Expert"
+      },
+      "buttons": {
+        "request": "Demana una Consulta",
+        "call": "O truca'ns ara"
+      }
+    }
+  },
+  "contacts": {
+    "hero": {
+      "title": "Contacta",
+      "titleHighlight": "amb Nosaltres",
+      "description": "Som aquí per ajudar-te. No dubtis en contactar-nos per a qualsevol consulta o per programar una visita."
+    },
+    "info": {
+      "phone": {
+        "title": "Telèfon i Fax",
+        "tel": "Tel",
+        "fax": "Fax"
+      },
+      "email": {
+        "title": "Correu Electrònic"
+      },
+      "address": {
+        "title": "Adreça"
+      }
+    },
+    "map": {
+      "title": "Ubicació",
+      "iframe": "Mapa de la ubicació"
+    },
+    "form": {
+      "title": "Envia'ns un missatge",
+      "name": "Nom",
+      "phone": "Telèfon",
+      "email": "Email",
+      "reason": {
+        "label": "Motiu de consulta",
+        "placeholder": "Selecciona una opció",
+        "options": {
+          "neurologia": "Neurologia",
+          "psiquiatria": "Psiquiatria",
+          "neuropsicologia": "Neuropsicologia",
+          "psicologia": "Psicologia"
+        }
+      },
+      "privacyPolicy": "He llegit i accepto la política de privacitat i el tractament de les meves dades personals",
+      "message": "Missatge",
+      "submit": "Enviar missatge"
+    }
+  },
+  "neurology": {
+    "hero": {
+      "title": "Neurologia i",
+      "titleHighlight": "Trastorns Cognitius",
+      "description1": "Les malalties neurològiques són més freqüents a mida que augmenta la nostra esperança de vida. Els problemes de la memòria, les limitacions físiques i intel·lectuals dificulten la capacitat d'adaptació de la persona al seu entorn.",
+      "description2": "Cal fer un diagnòstic ràpid per preparar al pacient i la seva família davant els canvis que podran venir i ajudar-los a adaptar-se millor."
+    },
+    "images": {
+      "hero": "Neurologia"
+    },
+    "specialist": {
+      "title": "Especialista en",
+      "titleHighlight": "Neurologia",
+      "name": "Dr. Xavier Batalla",
+      "role": "Neuròleg-Psiquiatre · Col·l.núm 14141 COMB",
+      "description": "Expert en diagnòstic i tractament de trastorns cognitius, malaltia d'Alzheimer, malaltia de Parkinson i altres demències. Combina la seva formació dual en neurologia i psiquiatria per oferir una visió integral dels trastorns cognitius.",
+      "imageAlt": "Dr. Xavier Batalla",
+      "link": "Conèixer més sobre el nostre equip"
+    },
+    "causes": {
+      "title": "Causes dels Trastorns",
+      "titleHighlight": "Cognitius",
+      "description": "Els problemes de memòria poden aparèixer per diverses causes, incloent situacions d'ansietat, depressió, o factors de risc vascular.",
+      "vascular": {
+        "title": "Factors de Risc Vascular",
+        "items": ["Hipertensió arterial", "Diabetis", "Dislipèmies"]
+      },
+      "degenerative": {
+        "title": "Malalties Degeneratives",
+        "items": ["Alzheimer", "Parkinson", "Altres demències"]
+      },
+      "others": {
+        "title": "Altres Condicions",
+        "items": ["Hipotiroidisme", "Fibromiàlgia", "Covid persistent"]
+      }
+    },
+    "testAD8": {
+      "title": "Test AD8",
+      "description": "El qüestionari AD8 identifica persones que poden estar patint una demència. És una eina ràpida i efectiva per detectar canvis cognitius significatius.",
+      "button": "Realitzar Test AD8"
+    },
+    "alarmSigns": {
+      "title": "Signes",
+      "titleHighlight": "d'Alarma",
+      "description": "Aquests són els símptomes que ens farien pensar que hi podria haver un dèficit cognitiu.",
+      "items": [
+        "Oblits freqüents en les tasques rutinàries",
+        "Confusions en els dies de la setmana, del mes o de l'any",
+        "Repetició de frases, preguntes, històries",
+        "Dificultat per prendre decisions o entendre documents",
+        "Dificultat per expressar-se o per comprendre",
+        "Perdre's en llocs coneguts",
+        "Canvis en els hàbits i personalitat",
+        "Familiars preocupats per la pèrdua de memòria"
+      ]
+    },
+    "diagnosis": {
+      "title": "Protocol de",
+      "titleHighlight": "Diagnòstic",
+      "steps": [
+        "Historial mèdic i antecedents familiars",
+        "Exploració neurològica",
+        "Proves d'imatge (TAC, RMN, SPECT o PET cranial)",
+        "Anàlisis clíniques específiques",
+        "Exploració neuropsicològica"
+      ]
+    },
+    "treatment": {
+      "title": "Opcions de",
+      "titleHighlight": "Tractament",
+      "options": {
+        "pharmacological": {
+          "title": "Farmacològic",
+          "description": "El diagnòstic precoç permetrà aplicar el tractament més adequat per endarrerir l'evolució de la malaltia i millorar la qualitat de vida."
+        },
+        "cognitive": {
+          "title": "Estimulació Cognitiva",
+          "description": "Activitats programades per estimular les funcions cognitives com memòria, llenguatge, atenció i raonament."
+        },
+        "family": {
+          "title": "Suport Familiar",
+          "description": "La intervenció d'un terapeuta pot ser de gran ajut per resoldre dubtes i situacions conflictives en la dinàmica familiar."
+        }
+      }
+    },
+    "contact": {
+      "title": "Necessites Ajuda Professional?",
+      "description": "El nostre equip multidisciplinari està especialitzat en el diagnòstic i tractament de trastorns neurològics i psiquiàtrics.",
+      "features": {
+        "quick": "Resposta Ràpida",
+        "personal": "Atenció Personalitzada",
+        "expert": "Equip Expert"
+      },
+      "cta": "Demana una Consulta"
+    }
+  },
+  "psychiatry": {
+    "hero": {
+      "title": "Psiquiatria i",
+      "titleHighlight": "Salut Mental",
+      "description": "A banda dels trastorns cognitius continuem diagnosticant i tractant els trastorns psiquiàtrics més habituals com són els trastorns d'ansietat, crisis d'angoixa, fòbies, preocupació excessiva per la salut, somatitzacions, trastorns depressius, TOC i TDAH."
+    },
+    "images": {
+      "hero": "Psiquiatria"
+    },
+    "specialist": {
+      "title": "Especialista en",
+      "titleHighlight": "Psiquiatria",
+      "name": "Dr. Xavier Batalla",
+      "role": "Neuròleg-Psiquiatre · Col·l.núm 14141 COMB",
+      "description": "La seva doble especialització en neurologia i psiquiatria permet oferir un enfocament integral en el diagnòstic i tractament dels trastorns mentals, combinant teràpies psicològiques i tractaments farmacològics segons les necessitats de cada pacient.",
+      "imageAlt": "Dr. Xavier Batalla",
+      "link": "Conèixer més sobre el nostre equip"
+    },
+    "disorders": {
+      "title": "Principals",
+      "titleHighlight": "Trastorns",
+      "description": "Tractem diversos trastorns psiquiàtrics amb un enfocament personalitzat, combinant psicoteràpia i tractament farmacològic segons les necessitats individuals.",
+      "types": {
+        "anxiety": {
+          "title": "Trastorns d'Ansietat",
+          "description": "L'ansietat és la sensació de por que es produeix davant de situacions amenaçadores o estressants. És una resposta normal quan s'enfronta a un perill, però pot convertir-se en un trastorn quan és persistent.",
+          "symptoms": [
+            "Crisis d'angoixa",
+            "Fòbies",
+            "Preocupació excessiva per la salut"
+          ]
+        },
+        "depression": {
+          "title": "Trastorns Depressius",
+          "description": "La depressió sovint presenta símptomes físics, principalment fatiga, dolor o alteracions del son. L'assessorament de suport i la farmacoteràpia són més efectius quan es combinen.",
+          "symptoms": [
+            "Depressió en adolescents",
+            "Depressió en gent gran",
+            "Depressió amb malalties cròniques"
+          ]
+        },
+        "ocd": {
+          "title": "Trastorn Obsessiu-Compulsiu",
+          "description": "El TOC es manifesta amb obsessions (pensaments no desitjats) i compulsions (comportaments repetitius). El tractament combina psicoteràpia i farmacoteràpia.",
+          "symptoms": [
+            "Teràpia d'exposició i prevenció",
+            "Tractament farmacològic específic",
+            "Teràpia cognitivoconductual"
+          ]
+        },
+        "adhd": {
+          "title": "Trastorn per Dèficit d'Atenció i Hiperactivitat",
+          "description": "El TDAH és un trastorn del neurodesenvolupament que afecta l'atenció, control d'impulsos i activitat motora, persistent en l'edat adulta.",
+          "symptoms": [
+            "Dèficit d'atenció",
+            "Impulsivitat",
+            "Hiperactivitat motora i/o vocal"
+          ]
+        }
+      }
+    },
+    "treatment": {
+      "title": "El Nostre",
+      "titleHighlight": "Tractament",
+      "description": "Oferim un enfocament terapèutic integral que combina diferents modalitats de tractament segons les necessitats específiques de cada pacient.",
+      "types": {
+        "psychotherapy": {
+          "title": "Psicoteràpia",
+          "description": "La psicoteràpia basada en l'evidència, especialment la teràpia cognitivo-conductual, és fonamental en el tractament dels trastorns psiquiàtrics."
+        },
+        "pharmacological": {
+          "title": "Tractament Farmacològic",
+          "description": "Els medicaments psicoactius, especialment els compostos serotoninèrgics, són efectius quan estan indicats i es combinen amb la psicoteràpia."
+        },
+        "followup": {
+          "title": "Seguiment Personalitzat",
+          "description": "Realitzem un seguiment continu per ajustar el tractament segons l'evolució i les necessitats específiques de cada pacient."
+        }
+      }
+    },
+    "cta": {
+      "title": "Necessites Ajuda Professional?",
+      "description": "El nostre equip multidisciplinari està preparat per oferir-te l'atenció especialitzada que necessites.",
+      "button": "Demana una Visita"
+    }
+  },
+  "neuropsychology": {
+    "hero": {
+      "title": "Neuropsicologia i",
+      "titleHighlight": "Cognició",
+      "description": "Ciència que estudia la relació entre el funcionament del cervell i els processos cognitius, emocionals i conductuals. S'enfoca en comprendre com les lesions o disfuncions cerebrals afecten les capacitats mentals i el comportament humà."
+    },
+    "images": {
+      "hero": "Neuropsicologia"
+    },
+    "specialist": {
+      "title": "Especialista en",
+      "titleHighlight": "Neuropsicologia",
+      "name": "Dra. Isabel",
+      "role": "Neuropsicòloga · Col·l.núm XXXX COPC",
+      "description": "La seva experiència en avaluació i rehabilitació neuropsicològica permet oferir un diagnòstic precís i un tractament personalitzat per a cada pacient, combinant diferents tècniques terapèutiques segons les necessitats individuals.",
+      "imageAlt": "Dra. Isabel",
+      "link": "Conèixer més sobre el nostre equip"
+    },
+    "warningSigns": {
+      "title": "Principals",
+      "titleHighlight": "Senyals d'Alarma",
+      "description": "La detecció precoç dels símptomes és crucial per a un diagnòstic i tractament efectius. Aquestes són les principals senyals d'alarma que poden indicar la necessitat d'una avaluació neuropsicològica.",
+      "categories": {
+        "cognition": {
+          "title": "Cognició",
+          "items": [
+            "Desorientació en temps i espai",
+            "Dificultat per aprendre i retenir informació nova",
+            "Problemes per trobar paraules",
+            "Dificultat amb càlculs mentals"
+          ]
+        },
+        "behavior": {
+          "title": "Conducta",
+          "items": [
+            "Irritabilitat i/o agressivitat",
+            "Pèrdua d'iniciativa i apatia",
+            "Falta d'empatia",
+            "Comportaments repetitius"
+          ]
+        },
+        "daily": {
+          "title": "Activitats Vida Diària",
+          "items": [
+            "Dificultat amb tasques complexes",
+            "Problemes per planificar",
+            "Abandonament d'activitats d'oci"
+          ]
+        }
+      }
+    },
+    "objectives": {
+      "title": "Els Nostres",
+      "titleHighlight": "Objectius",
+      "description": "L'exploració neuropsicològica és una prova complementària que utilitza el neuròleg juntament amb altres proves per arribar a un diagnòstic clínic precís.",
+      "types": {
+        "evaluation": {
+          "title": "Avaluació",
+          "description": "Avaluem el funcionament cognitiu i conductual mitjançant proves estandarditzades per identificar dèficits i fer seguiment de l'evolució del pacient."
+        },
+        "rehabilitation": {
+          "title": "Rehabilitació",
+          "description": "Dissenyem programes terapèutics personalitzats per millorar les capacitats cognitives i l'adaptació emocional i social."
+        },
+        "prevention": {
+          "title": "Prevenció",
+          "description": "Ajudem a reduir els riscos d'afectacions neurològiques i promovem hàbits saludables per protegir el funcionament cerebral."
+        }
+      }
+    },
+    "cta": {
+      "title": "Necessites una Avaluació Neuropsicològica?",
+      "description": "El nostre equip especialitzat està preparat per realitzar una avaluació completa i personalitzada del teu cas.",
+      "button": "Demana una Visita"
+    }
+  },
+  "psychology": {
+    "hero": {
+      "title": "Psicologia i",
+      "titleHighlight": "Teràpia",
+      "description": "Utilitzem dos enfocs terapèutics: la teràpia cognitiva-conductual i la teràpia sistèmica, que ens ajuden a entendre, enfrontar i resoldre problemes de conducta, emocionals o relacionals."
+    },
+    "images": {
+      "hero": "Psicologia"
+    },
+    "specialist": {
+      "title": "Especialista en",
+      "titleHighlight": "Psicologia",
+      "name": "Maite Delsors Arasa",
+      "role": "Psicòloga Clínica · Núm. Col·legiat COPC",
+      "description": "Especialitzada en teràpia cognitivosocial i teràpia de parella, amb àmplia experiència en avaluació i diagnòstic psicològic, teràpies individuals, grupals, de parella i familiars. Investigadora en aspectes psicològics dels trastorns funcionals digestius.",
+      "imageAlt": "Maite Delsors",
+      "link": "Conèixer més sobre el nostre equip"
+    },
+    "therapyTypes": {
+      "title": "Tipus de",
+      "titleHighlight": "Teràpia",
+      "description": "Oferim diferents enfocaments terapèutics adaptats a les necessitats específiques de cada pacient, combinant tècniques i estratègies segons cada cas.",
+      "types": {
+        "cognitive": {
+          "title": "Teràpia Cognitiva-Conductual",
+          "description": "Enfocament estructurat que es centra en la relació entre pensaments, emocions i comportaments, amb l'objectiu d'identificar i modificar patrons disfuncionals.",
+          "features": [
+            "Es centra en el present i futur",
+            "Teràpia estructurada i de curta durada",
+            "Desenvolupament d'estratègies d'afrontament"
+          ]
+        },
+        "systemic": {
+          "title": "Teràpia Sistèmica",
+          "description": "Enfocament que considera els problemes psicològics com expressions d'alteracions en les interaccions i patrons de comunicació dins dels sistemes.",
+          "features": [
+            "Visió holística de la persona",
+            "Enfocament en les relacions",
+            "Cerca d'un nou equilibri funcional"
+          ]
+        }
+      }
+    },
+    "application": {
+      "title": "La Nostra",
+      "titleHighlight": "Aplicació",
+      "description": "La nostra aproximació terapèutica s'adapta a les necessitats individuals de cada pacient, integrant diferents tècniques i estratègies.",
+      "steps": {
+        "evaluation": {
+          "title": "Avaluació Individual",
+          "description": "Realitzem una avaluació completa per entendre les necessitats específiques i dissenyar el pla terapèutic més adequat."
+        },
+        "therapy": {
+          "title": "Teràpia Personalitzada",
+          "description": "Combinem diferents enfocaments terapèutics segons les necessitats de cada persona, adaptant les tècniques al cas específic."
+        },
+        "followup": {
+          "title": "Seguiment Continu",
+          "description": "Mantenim un seguiment regular per avaluar el progrés i ajustar el tractament segons l'evolució del pacient."
+        }
+      }
+    },
+    "cta": {
+      "title": "Necessites Ajuda Professional?",
+      "description": "El nostre equip especialitzat està preparat per oferir-te el suport i l'orientació que necessites.",
+      "button": "Demana una Visita"
+    }
+  }
+}

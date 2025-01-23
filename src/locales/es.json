@@ -1,0 +1,894 @@
+{
+  "header": {
+    "images": {
+      "medical_center": "Centro médico moderno",
+      "consultation": "Consulta médica moderna"
+    },
+    "flexible_schedule": "Horario flexible para tu comodidad",
+    "title": {
+      "team": "EQUIPO",
+      "of": "DE",
+      "neuropsychiatry": "NEUROPSIQUIATRÍA",
+      "cognitive_disorders": "y Trastornos Cognitivos"
+    },
+    "description": "Ofrecemos un servicio global en enfermedades neurológicas y psicológicas con un enfoque innovador y personalizado",
+    "buttons": {
+      "appointment": "Pedir cita",
+      "test": "Realizar Test AD8"
+    },
+    "stats": {
+      "years": "Años de experiencia",
+      "patients": "Pacientes atendidos",
+      "satisfaction": {
+        "title": "Satisfacción",
+        "value": "98% de los pacientes"
+      }
+    }
+  },
+  "services": {
+    "title": "Nuestras",
+    "title_highlight": "Especialidades",
+    "subtitle": "La neurología, la psiquiatría y los trastornos cognitivos son campos interrelacionados que se ocupan de la salud mental y el funcionamiento cerebral",
+    "neurology": {
+      "title": "Neurología",
+      "description": "Especialidad médica dedicada al diagnóstico y tratamiento de los trastornos del sistema nervioso, incluyendo el cerebro, la médula espinal y los nervios periféricos",
+      "conditions": ["Dolores de cabeza", "Epilepsia", "Parkinson", "Alzheimer"]
+    },
+    "psychiatry": {
+      "title": "Psiquiatría",
+      "description": "Rama de la medicina enfocada en la prevención, diagnóstico y tratamiento de los trastornos mentales, utilizando terapias psicológicas y tratamientos farmacológicos",
+      "conditions": [
+        "Depresión",
+        "Ansiedad",
+        "Trastorno bipolar",
+        "Esquizofrenia"
+      ]
+    },
+    "cognitive": {
+      "title": "Trastornos Cognitivos",
+      "description": "Afecciones que impactan las funciones cognitivas como el pensamiento, aprendizaje, memoria, atención y lenguaje",
+      "conditions": [
+        "Deterioro cognitivo",
+        "Déficits de memoria",
+        "TDAH",
+        "Trastornos del espectro autista"
+      ]
+    }
+  },
+  "treatments": {
+    "evaluation": {
+      "title": "Evaluación Exhaustiva",
+      "description": "Realizamos pruebas neuropsicológicas completas y exámenes médicos detallados para un diagnóstico preciso"
+    },
+    "cognitive": {
+      "title": "Terapia Cognitiva",
+      "description": "Sesiones personalizadas enfocadas en mejorar las funciones cognitivas y el bienestar mental"
+    },
+    "lifestyle": {
+      "title": "Cambios en el Estilo de Vida",
+      "description": "Recomendaciones personalizadas para mantener una buena salud cognitiva y mental"
+    }
+  },
+  "contact": {
+    "title": "Pide una",
+    "title_highlight": "Consulta",
+    "subtitle": "Nuestro equipo está preparado para ofrecerte la atención especializada que necesitas. Contáctanos y te ayudaremos a encontrar la mejor solución",
+    "phone": {
+      "title": "Teléfono",
+      "value": "+34 93 XXX XX XX",
+      "description": "Atención telefónica de lunes a viernes"
+    },
+    "email": {
+      "title": "Correo Electrónico",
+      "value": "info@centremedic.com",
+      "description": "Responderemos en menos de 24 horas"
+    },
+    "location": {
+      "title": "Ubicación",
+      "address": "Paseo de Gracia, 123",
+      "city": "08008 Barcelona"
+    },
+    "schedule": {
+      "title": "Horario",
+      "days": "Lunes a Viernes",
+      "hours": "9:00 - 14:00 | 15:00 - 20:00"
+    },
+    "cta": {
+      "title": "Reserva tu visita",
+      "description": "Nuestro equipo médico especializado te ofrecerá una atención personalizada y adaptada a tus necesidades. Ponte en contacto con nosotros para programar tu primera visita",
+      "appointment": "Pedir Cita",
+      "call": "Llámanos",
+      "additional": "También puedes contactarnos por WhatsApp o correo electrónico"
+    }
+  },
+  "diagnosis": {
+    "title": "Diagnóstico",
+    "title_highlight": "y Tratamiento",
+    "description": "El diagnóstico precoz es fundamental para iniciar el tratamiento lo antes posible y prevenir un mayor deterioro. Nuestro enfoque integral combina diferentes métodos terapéuticos para obtener los mejores resultados.",
+    "images": {
+      "medical_team": "Equipo médico"
+    }
+  },
+  "prevention": {
+    "title": "Recomendaciones para la Prevención",
+    "section_title": "Prevención",
+    "section_title_highlight": "y Cuidados",
+    "intro": "Para mantener una buena salud cognitiva, se recomienda:",
+    "conclusion": "La comprensión y el tratamiento de los trastornos neurológicos, psiquiátricos y cognitivos continúan avanzando, ofreciendo esperanza y mejores resultados para los pacientes afectados por estas condiciones.",
+    "images": {
+      "activities": "Actividades preventivas"
+    },
+    "tips": [
+      "Realizar actividades mentales estimulantes como leer o resolver puzles",
+      "Mantener relaciones sociales activas",
+      "Hacer ejercicio regularmente",
+      "Seguir una dieta saludable",
+      "Controlar los factores de riesgo cardiovascular"
+    ]
+  },
+  "team": {
+    "title": "Nuestro",
+    "title_highlight": "Equipo Médico",
+    "description": "Contamos con un equipo multidisciplinar de profesionales altamente cualificados y con amplia experiencia en el tratamiento de trastornos neurológicos y psiquiátricos.",
+    "buttons": {
+      "learn_more": "Saber más"
+    },
+    "banner": {
+      "title": "¿Necesitas Ayuda Profesional?",
+      "description": "Nuestro equipo multidisciplinar está especializado en el diagnóstico y tratamiento de trastornos neurológicos y psiquiátricos.",
+      "features": {
+        "quick_response": "Respuesta Rápida",
+        "personal_attention": "Atención Personalizada",
+        "expert_team": "Equipo Experto"
+      },
+      "cta": "Pide una Consulta"
+    },
+    "members": [
+      {
+        "name": "Dr. Xavier Batalla",
+        "role": "Neurólogo y Psiquiatra",
+        "especialidad": "Trastornos cognitivos, enfermedad de Alzheimer, enfermedad de Parkinson y otras demencias",
+        "image": "/assets/drXavierBatalla.jpg",
+        "credentials": "15 años de experiencia"
+      },
+      {
+        "name": "Dra Isabel Gómez Ruiz",
+        "role": "Neuropsicóloga",
+        "especialidad": "Evaluación y diagnóstico de las alteraciones cognitivas de pacientes con enfermedades neurodegenerativas.",
+        "image": "/assets/isabel_gomez_foto.jpg",
+        "credentials": "12 años de experiencia"
+      },
+      {
+        "name": "Maite Delsors Arasa",
+        "role": "Psicóloga Clínica",
+        "especialidad": "Evaluación y diagnóstico psicológico, terapias individuales, grupales, de pareja y familiares.",
+        "image": "/assets/maite_delsors_foto.jpg",
+        "credentials": "10 años de experiencia"
+      },
+      {
+        "name": "Valentina Caicedo",
+        "role": "Soporte Administrativo",
+        "especialidad": "Atención al paciente, gestión de documentación médica, facturación y gestión de seguros.",
+        "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?q=80&w=2070&auto=format&fit=crop",
+        "credentials": "13 años de experiencia"
+      }
+    ]
+  },
+  "navbar": {
+    "phone": "+34 93 439 89 89",
+    "request_appointment": "Pedir una cita",
+    "center": "El centro",
+    "team": "Equipo",
+    "contact": "Contacto",
+    "ad8": "AD8",
+    "specialties": {
+      "title": "Especialidades",
+      "neurology": "Neurología",
+      "psychiatry": "Psiquiatría",
+      "neuropsychology": "Neuropsicología",
+      "psychology": "Psicología"
+    }
+  },
+  "centre": {
+    "header": {
+      "title": "Nuestro",
+      "titleHighlight": "Centro",
+      "description": "Somos un equipo multidisciplinar especializado en neurología, psiquiatría y psicología. Ofrecemos una atención integral y personalizada para el diagnóstico y tratamiento de trastornos neurológicos y psiquiátricos.",
+      "imageAlt": "Centro Médico"
+    },
+    "about": {
+      "title": "EDRD - Equipo de Diagnóstico Rápido de la Demencia",
+      "description1": "Centro especializado en el diagnóstico y tratamiento de la demencia y otros trastornos cognitivos, dirigido por el Dr. Xavier Batalla, experto en neurología y psiquiatría. Nuestro centro destaca por su aproximación innovadora y multidisciplinar en la evaluación y tratamiento de pacientes con trastornos neurológicos y psiquiátricos.",
+      "description2": "Nuestro enfoque combina la neurología y la psiquiatría para ofrecer una visión integral de los trastornos cognitivos, permitiendo un abordaje más completo y preciso en el diagnóstico y tratamiento de las enfermedades neurodegenerativas. Esta perspectiva dual nos permite entender mejor la compleja interacción entre los aspectos neurológicos y psiquiátricos de cada caso.",
+      "description3": "En el EDRD, entendemos que cada paciente es único y requiere una atención personalizada. Nuestro equipo multidisciplinar trabaja de manera coordinada para ofrecer una evaluación exhaustiva y desarrollar planes de tratamiento adaptados a las necesidades específicas de cada persona y su familia.",
+      "image_alt": "Equipo médico"
+    },
+    "specialties": {
+      "diagnostic": {
+        "title": "Diagnóstico Integral",
+        "description": "Evaluación completa combinando neurología y psiquiatría para un diagnóstico preciso y temprano."
+      },
+      "team": {
+        "title": "Equipo Multidisciplinar",
+        "description": "Especialistas en neurología, psiquiatría, neuropsicología y rehabilitación cognitiva."
+      },
+      "attention": {
+        "title": "Atención Rápida",
+        "description": "Diagnóstico ágil y eficiente para iniciar el tratamiento lo antes posible."
+      }
+    },
+    "ourSpecialties": {
+      "title": "Nuestras",
+      "titleHighlight": "Especialidades",
+      "description": "Ofrecemos un servicio integral en salud mental y neurológica, con un equipo multidisciplinar de expertos dedicados a proporcionar la mejor atención personalizada para cada paciente.",
+      "neurology": {
+        "title": "Neurología",
+        "description": "Especialidad médica dedicada al diagnóstico y tratamiento de los trastornos del sistema nervioso, incluyendo el cerebro, la médula espinal y los nervios periféricos.",
+        "items": [
+          "Enfermedad de Alzheimer y otras demencias",
+          "Enfermedad de Parkinson",
+          "Trastornos del movimiento"
+        ]
+      },
+      "psychiatry": {
+        "title": "Psiquiatría",
+        "description": "Rama de la medicina enfocada en la prevención, diagnóstico y tratamiento de los trastornos mentales, utilizando terapias psicológicas y tratamientos farmacológicos.",
+        "items": [
+          "Trastornos de ansiedad y depresión",
+          "TOC (Trastorno Obsesivo Compulsivo)",
+          "TDAH en adultos"
+        ]
+      },
+      "neuropsychology": {
+        "title": "Neuropsicología",
+        "description": "Ciencia que estudia la relación entre el funcionamiento del cerebro y los procesos cognitivos, emocionales y conductuales.",
+        "items": [
+          "Evaluación neuropsicológica completa",
+          "Rehabilitación cognitiva",
+          "Estimulación cognitiva"
+        ]
+      },
+      "psychology": {
+        "title": "Psicología",
+        "description": "Utilizamos dos enfoques terapéuticos principales: la terapia cognitivo-conductual y la terapia sistémica.",
+        "items": [
+          "Terapia individual y familiar",
+          "Apoyo a cuidadores",
+          "Grupos terapéuticos"
+        ]
+      }
+    },
+    "facilities": {
+      "title": "Nuestras",
+      "titleHighlight": "Instalaciones",
+      "description": "Disponemos de espacios modernos y acogedores, diseñados específicamente para ofrecer el máximo confort y privacidad durante su visita. Descubre nuestro centro y sus instalaciones.",
+      "spaces": {
+        "title": "Espacios y Equipamiento",
+        "items": [
+          "Salas especializadas para evaluaciones neuropsicológicas",
+          "Espacios para terapia individual y familiar",
+          "Sala de reuniones para sesiones grupales"
+        ]
+      },
+      "amenities": {
+        "title": "Comodidades",
+        "items": [
+          "Sala de espera confortable",
+          "Climatización e iluminación adecuadas",
+          "Entorno tranquilo y acogedor"
+        ]
+      },
+      "images": {
+        "consultation": {
+          "alt": "Sala de consultas",
+          "title": "Consultas Externas"
+        },
+        "evaluation": {
+          "alt": "Sala de evaluación",
+          "title": "Sala de Evaluación Neuropsicológica"
+        },
+        "therapy": {
+          "alt": "Sala de terapia",
+          "title": "Espacio de Terapia"
+        }
+      },
+      "carousel": {
+        "previous": "Anterior",
+        "next": "Siguiente",
+        "goToSlide": "Ir a la diapositiva {number}"
+      }
+    },
+    "contact": {
+      "title": "Contacto",
+      "titleHighlight": "y Ubicación",
+      "description": "Estamos aquí para ayudarte. No dudes en contactarnos para programar una visita o solicitar más información sobre nuestros servicios. Tu salud es nuestra prioridad.",
+      "contactUs": "Contacta con Nosotros",
+      "phone": {
+        "title": "Teléfono y Fax",
+        "number": "Tel: 93 439 89 89",
+        "fax": "Fax: 93 430 19 75",
+        "schedule": "Lunes a Viernes: 9:00 - 20:00"
+      },
+      "email": {
+        "title": "Correo Electrónico",
+        "address": "info@diagnosticrapiddemencia.com",
+        "response": "Responderemos en menos de 24 horas"
+      },
+      "address": {
+        "title": "Dirección",
+        "street": "C/Rocafort, 241 5º.3ª",
+        "city": "08029 Barcelona"
+      },
+      "schedule": {
+        "title": "Horario",
+        "days": "Lunes a Viernes",
+        "hours": "9:00 - 14:00 | 15:00 - 20:00"
+      },
+      "requestAppointment": "Pedir Cita"
+    },
+    "location": {
+      "mapTitle": "Ubicación del centro",
+      "howToArrive": "Cómo Llegar",
+      "metro": {
+        "title": "Metro",
+        "lines": "L5 - Entença"
+      },
+      "bus": {
+        "title": "Bus",
+        "lines": "27, 32, H8"
+      },
+      "parking": {
+        "title": "Parking",
+        "description": "A 100m del centro"
+      }
+    }
+  },
+  "teams": {
+    "hero": {
+      "title": "Nuestro",
+      "titleHighlight": "Equipo",
+      "description": "Somos un equipo multidisciplinar de expertos dedicados a ofrecer una atención integral y personalizada en salud mental y neurológica. Nuestra pasión es ayudar a nuestros pacientes a mejorar su calidad de vida."
+    },
+    "values": {
+      "commitment": {
+        "title": "Compromiso",
+        "description": "Dedicación total al bienestar y la mejora de la calidad de vida de nuestros pacientes."
+      },
+      "experience": {
+        "title": "Experiencia",
+        "description": "Años de experiencia combinada en el diagnóstico y tratamiento de trastornos neurológicos y psiquiátricos."
+      },
+      "precision": {
+        "title": "Precisión",
+        "description": "Diagnóstico preciso y tratamiento personalizado para cada paciente."
+      }
+    },
+    "medicalDirector": {
+      "title": "Director",
+      "titleHighlight": "Médico",
+      "imageAlt": "Dr. Xavier Batalla",
+      "role": "Neurólogo-Psiquiatra · Col.núm 14141 COMB",
+      "education": {
+        "title": "Formación",
+        "items": [
+          "Licenciado en Medicina y Cirugía por la UB",
+          "Título de Médico Especialista en Neurología",
+          "Título de Médico Especialista en Psiquiatría",
+          "Psicoterapeuta Familiar"
+        ]
+      },
+      "specialties": {
+        "neurology": {
+          "title": "Neurología",
+          "items": [
+            "Trastornos cognitivos",
+            "Enfermedad de Alzheimer",
+            "Enfermedad de Parkinson"
+          ]
+        },
+        "psychiatry": {
+          "title": "Psiquiatría",
+          "items": ["Ansiedad", "Depresión", "TOC", "TDAH"]
+        }
+      }
+    },
+    "specialists": {
+      "title": "Equipo",
+      "titleHighlight": "Especializado",
+      "isabel": {
+        "name": "Dra. Isabel Gómez-Ruiz",
+        "role": "Neuropsicóloga y Doctora en Psicología",
+        "imageAlt": "Dra. Isabel Gómez-Ruiz",
+        "description": "Experiencia en la evaluación y diagnóstico de las alteraciones cognitivas y conductuales de pacientes con enfermedades neurodegenerativas y trastornos del movimiento.",
+        "career": {
+          "title": "Trayectoria Profesional",
+          "items": [
+            "Neuropsicóloga adjunta en el Servicio de Neurología del CSI",
+            "Doctora en Psicología por la Universidad de Barcelona",
+            "Docente e investigadora en Neurolingüística"
+          ]
+        }
+      },
+      "maite": {
+        "name": "Maite Delsors Arasa",
+        "role": "Psicóloga Clínica",
+        "imageAlt": "Maite Delsors",
+        "education": {
+          "title": "Formación",
+          "items": [
+            "Licenciada en Psicología por la UB",
+            "Máster en Terapia Cognitivo-social",
+            "Especialista en Terapia de pareja y familiar"
+          ]
+        },
+        "specialization": {
+          "title": "Especialización",
+          "description": "Especializada en evaluación y diagnóstico psicológico, terapias individuales, grupales, de pareja y familiares. Con especial foco en:",
+          "items": ["Terapia Cognitivo-social", "Terapia de Pareja y Familiar"]
+        }
+      }
+    },
+    "experience": {
+      "title": "Experiencia y",
+      "titleHighlight": "Compromiso",
+      "description": "Nuestro equipo combina años de experiencia con una formación constante y un compromiso firme con la calidad asistencial y el bienestar de nuestros pacientes.",
+      "cards": {
+        "attention": {
+          "title": "Atención Personalizada",
+          "description": "Cada paciente es único y merece un tratamiento personalizado. Nuestro equipo trabaja de manera coordinada para ofrecer la mejor atención posible."
+        },
+        "training": {
+          "title": "Formación Continuada",
+          "description": "Nos mantenemos al día de las últimas novedades y avances en el campo de la neurología, psiquiatría y psicología para ofrecer los mejores tratamientos."
+        },
+        "excellence": {
+          "title": "Excelencia Profesional",
+          "description": "Nuestro compromiso con la excelencia se refleja en cada aspecto de nuestro trabajo, desde el diagnóstico hasta el seguimiento del paciente."
+        }
+      }
+    },
+    "contact": {
+      "title": "¿Necesitas Ayuda Profesional?",
+      "description": "Nuestro equipo multidisciplinar está especializado en el diagnóstico y tratamiento de trastornos neurológicos y psiquiátricos.",
+      "features": {
+        "quick": "Respuesta Rápida",
+        "personal": "Atención Personalizada",
+        "expert": "Equipo Experto"
+      },
+      "cta": "Pide una Consulta"
+    }
+  },
+  "testAD8": {
+    "title": "Test",
+    "subtitle": "Cuestionario de detección temprana de Alzheimer y otras demencias",
+    "description": "Este test ayuda a identificar posibles signos de deterioro cognitivo que pueden requerir una evaluación profesional más detallada.",
+    "info": {
+      "who": {
+        "title": "¿Quién debe hacer el test?",
+        "description": "El AD8 debe ser completado por un familiar o persona cercana que conozca bien al paciente y pueda observar cambios en su comportamiento."
+      },
+      "time": {
+        "title": "Tiempo necesario",
+        "description": "El test es rápido y sencillo, solo necesitarás unos 5-10 minutos para completarlo. Las preguntas son claras y directas."
+      },
+      "precision": {
+        "title": "Precisión y validez",
+        "description": "El AD8 es una herramienta validada científicamente con una alta sensibilidad para detectar cambios cognitivos significativos."
+      }
+    },
+    "questions": [
+      "Problemas para emitir juicios y tomar decisiones adecuadas (p. ej., le engañan o estafan, toma decisiones financieras erróneas, hace regalos inapropiados, etc.)",
+      "Pérdida de interés en sus aficiones y actividades (p. ej., ha dejado de hacer actividades que le gustaban)",
+      "Repite las preguntas, los comentarios o las cosas que explica",
+      "Dificultad para aprender a utilizar herramientas, aparatos o dispositivos (p. ej., vídeo o DVD, ordenador, microondas, mandos a distancia, teléfono móvil o inalámbrico)",
+      "Olvida el mes o año correcto",
+      "Dificultad para gestionar asuntos financieros complicados (p. ej., ajustar cuentas, cheques, impuestos, facturas, recibos, etc.)",
+      "Dificultad para recordar las citas y cosas que tiene que hacer",
+      "Los problemas de razonamiento y/o memoria son cotidianos y no ocasionales"
+    ],
+    "options": {
+      "yes": "Sí, ha cambiado",
+      "no": "No, no ha cambiado",
+      "unknown": "No lo sabe / No contesta"
+    },
+    "buttons": {
+      "start": "Comenzar Test AD8",
+      "next": "Siguiente",
+      "finish": "Finalizar Test",
+      "restart": "Reiniciar Test"
+    },
+    "alerts": {
+      "answerAll": "Por favor, responda todas las preguntas antes de continuar."
+    },
+    "recommendations": {
+      "contact": "Recomendamos contactar con nuestro equipo médico para una evaluación más detallada."
+    },
+    "results": {
+      "title": "Puntuación Total AD8",
+      "normal": "Su puntuación está dentro de los rangos normales.",
+      "contact": "Recomendamos contactar con nuestro equipo médico para una evaluación más detallada."
+    },
+    "contact": {
+      "title": "¿Necesitas una Valoración Profesional?",
+      "description": "Nuestro equipo multidisciplinar está especializado en el diagnóstico y tratamiento de trastornos neurológicos y psiquiátricos.",
+      "features": {
+        "quick": "Respuesta Rápida",
+        "personal": "Atención Personalizada",
+        "expert": "Equipo Experto"
+      },
+      "buttons": {
+        "request": "Pide una Consulta",
+        "call": "O llámanos ahora"
+      }
+    }
+  },
+  "contacts": {
+    "hero": {
+      "title": "Contacta",
+      "titleHighlight": "con Nosotros",
+      "description": "Estamos aquí para ayudarte. No dudes en contactarnos para cualquier consulta o para programar una visita."
+    },
+    "info": {
+      "phone": {
+        "title": "Teléfono y Fax",
+        "tel": "Tel",
+        "fax": "Fax"
+      },
+      "email": {
+        "title": "Correo Electrónico"
+      },
+      "address": {
+        "title": "Dirección"
+      }
+    },
+    "map": {
+      "title": "Ubicación",
+      "iframe": "Mapa de la ubicación"
+    },
+    "form": {
+      "title": "Envíanos un mensaje",
+      "name": "Nombre",
+      "phone": "Teléfono",
+      "email": "Email",
+      "reason": {
+        "label": "Motivo de consulta",
+        "placeholder": "Selecciona una opción",
+        "options": {
+          "neurologia": "Neurología",
+          "psiquiatria": "Psiquiatría",
+          "neuropsicologia": "Neuropsicología",
+          "psicologia": "Psicología"
+        }
+      },
+      "privacyPolicy": "He leído y acepto la política de privacidad y el tratamiento de mis datos personales",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje"
+    }
+  },
+  "neurology": {
+    "hero": {
+      "title": "Neurología y",
+      "titleHighlight": "Trastornos Cognitivos",
+      "description1": "Las enfermedades neurológicas son más frecuentes a medida que aumenta nuestra esperanza de vida. Los problemas de memoria, las limitaciones físicas e intelectuales dificultan la capacidad de adaptación de la persona a su entorno.",
+      "description2": "Es necesario hacer un diagnóstico rápido para preparar al paciente y su familia ante los cambios que podrán venir y ayudarles a adaptarse mejor."
+    },
+    "images": {
+      "hero": "Neurología"
+    },
+    "specialist": {
+      "title": "Especialista en",
+      "titleHighlight": "Neurología",
+      "name": "Dr. Xavier Batalla",
+      "role": "Neurólogo-Psiquiatra · Col.núm 14141 COMB",
+      "description": "Experto en diagnóstico y tratamiento de trastornos cognitivos, enfermedad de Alzheimer, enfermedad de Parkinson y otras demencias. Combina su formación dual en neurología y psiquiatría para ofrecer una visión integral de los trastornos cognitivos.",
+      "imageAlt": "Dr. Xavier Batalla",
+      "link": "Conocer más sobre nuestro equipo"
+    },
+    "causes": {
+      "title": "Causas de los Trastornos",
+      "titleHighlight": "Cognitivos",
+      "description": "Los problemas de memoria pueden aparecer por diversas causas, incluyendo situaciones de ansiedad, depresión, o factores de riesgo vascular.",
+      "vascular": {
+        "title": "Factores de Riesgo Vascular",
+        "items": ["Hipertensión arterial", "Diabetes", "Dislipemias"]
+      },
+      "degenerative": {
+        "title": "Enfermedades Degenerativas",
+        "items": ["Alzheimer", "Parkinson", "Otras demencias"]
+      },
+      "others": {
+        "title": "Otras Condiciones",
+        "items": ["Hipotiroidismo", "Fibromialgia", "Covid persistente"]
+      }
+    },
+    "testAD8": {
+      "title": "Test AD8",
+      "description": "El cuestionario AD8 identifica personas que pueden estar padeciendo una demencia. Es una herramienta rápida y efectiva para detectar cambios cognitivos significativos.",
+      "button": "Realizar Test AD8"
+    },
+    "alarmSigns": {
+      "title": "Signos de",
+      "titleHighlight": "Alarma",
+      "description": "Estos son los síntomas que nos harían pensar que podría haber un déficit cognitivo.",
+      "items": [
+        "Olvidos frecuentes en las tareas rutinarias",
+        "Confusiones en los días de la semana, del mes o del año",
+        "Repetición de frases, preguntas, historias",
+        "Dificultad para tomar decisiones o entender documentos",
+        "Dificultad para expresarse o para comprender",
+        "Perderse en lugares conocidos",
+        "Cambios en los hábitos y personalidad",
+        "Familiares preocupados por la pérdida de memoria"
+      ]
+    },
+    "diagnosis": {
+      "title": "Protocolo de",
+      "titleHighlight": "Diagnóstico",
+      "steps": [
+        "Historial médico y antecedentes familiares",
+        "Exploración neurológica",
+        "Pruebas de imagen (TAC, RMN, SPECT o PET craneal)",
+        "Análisis clínicos específicos",
+        "Exploración neuropsicológica"
+      ]
+    },
+    "treatment": {
+      "title": "Opciones de",
+      "titleHighlight": "Tratamiento",
+      "options": {
+        "pharmacological": {
+          "title": "Farmacológico",
+          "description": "El diagnóstico precoz permitirá aplicar el tratamiento más adecuado para retrasar la evolución de la enfermedad y mejorar la calidad de vida."
+        },
+        "cognitive": {
+          "title": "Estimulación Cognitiva",
+          "description": "Actividades programadas para estimular las funciones cognitivas como memoria, lenguaje, atención y razonamiento."
+        },
+        "family": {
+          "title": "Apoyo Familiar",
+          "description": "La intervención de un terapeuta puede ser de gran ayuda para resolver dudas y situaciones conflictivas en la dinámica familiar."
+        }
+      }
+    },
+    "contact": {
+      "title": "¿Necesitas Ayuda Profesional?",
+      "description": "Nuestro equipo multidisciplinar está especializado en el diagnóstico y tratamiento de trastornos neurológicos y psiquiátricos.",
+      "features": {
+        "quick": "Respuesta Rápida",
+        "personal": "Atención Personalizada",
+        "expert": "Equipo Experto"
+      },
+      "cta": "Pide una Consulta"
+    }
+  },
+  "psychiatry": {
+    "hero": {
+      "title": "Psiquiatría y",
+      "titleHighlight": "Salud Mental",
+      "description": "Además de los trastornos cognitivos continuamos diagnosticando y tratando los trastornos psiquiátricos más habituales como son los trastornos de ansiedad, crisis de angustia, fobias, preocupación excesiva por la salud, somatizaciones, trastornos depresivos, TOC y TDAH."
+    },
+    "images": {
+      "hero": "Psiquiatría"
+    },
+    "specialist": {
+      "title": "Especialista en",
+      "titleHighlight": "Psiquiatría",
+      "name": "Dr. Xavier Batalla",
+      "role": "Neurólogo-Psiquiatra · Col.núm 14141 COMB",
+      "description": "Su doble especialización en neurología y psiquiatría permite ofrecer un enfoque integral en el diagnóstico y tratamiento de los trastornos mentales, combinando terapias psicológicas y tratamientos farmacológicos según las necesidades de cada paciente.",
+      "imageAlt": "Dr. Xavier Batalla",
+      "link": "Conocer más sobre nuestro equipo"
+    },
+    "disorders": {
+      "title": "Principales",
+      "titleHighlight": "Trastornos",
+      "description": "Tratamos diversos trastornos psiquiátricos con un enfoque personalizado, combinando psicoterapia y tratamiento farmacológico según las necesidades individuales.",
+      "types": {
+        "anxiety": {
+          "title": "Trastornos de Ansiedad",
+          "description": "La ansiedad es la sensación de miedo que se produce ante situaciones amenazantes o estresantes. Es una respuesta normal cuando se enfrenta a un peligro, pero puede convertirse en un trastorno cuando es persistente.",
+          "symptoms": [
+            "Crisis de angustia",
+            "Fobias",
+            "Preocupación excesiva por la salud"
+          ]
+        },
+        "depression": {
+          "title": "Trastornos Depresivos",
+          "description": "La depresión a menudo presenta síntomas físicos, principalmente fatiga, dolor o alteraciones del sueño. El asesoramiento de apoyo y la farmacoterapia son más efectivos cuando se combinan.",
+          "symptoms": [
+            "Depresión en adolescentes",
+            "Depresión en ancianos",
+            "Depresión con enfermedades crónicas"
+          ]
+        },
+        "ocd": {
+          "title": "Trastorno Obsesivo-Compulsivo",
+          "description": "El TOC se manifiesta con obsesiones (pensamientos no deseados) y compulsiones (comportamientos repetitivos). El tratamiento combina psicoterapia y farmacoterapia.",
+          "symptoms": [
+            "Terapia de exposición y prevención",
+            "Tratamiento farmacológico específico",
+            "Terapia cognitivo-conductual"
+          ]
+        },
+        "adhd": {
+          "title": "Trastorno por Déficit de Atención e Hiperactividad",
+          "description": "El TDAH es un trastorno del neurodesarrollo que afecta a la atención, control de impulsos y actividad motora, persistente en la edad adulta.",
+          "symptoms": [
+            "Déficit de atención",
+            "Impulsividad",
+            "Hiperactividad motora y/o vocal"
+          ]
+        }
+      }
+    },
+    "treatment": {
+      "title": "Nuestro",
+      "titleHighlight": "Tratamiento",
+      "description": "Ofrecemos un enfoque terapéutico integral que combina diferentes modalidades de tratamiento según las necesidades específicas de cada paciente.",
+      "types": {
+        "psychotherapy": {
+          "title": "Psicoterapia",
+          "description": "La psicoterapia basada en la evidencia, especialmente la terapia cognitivo-conductual, es fundamental en el tratamiento de los trastornos psiquiátricos."
+        },
+        "pharmacological": {
+          "title": "Tratamiento Farmacológico",
+          "description": "Los medicamentos psicoactivos, especialmente los compuestos serotoninérgicos, son efectivos cuando están indicados y se combinan con la psicoterapia."
+        },
+        "followup": {
+          "title": "Seguimiento Personalizado",
+          "description": "Realizamos un seguimiento continuo para ajustar el tratamiento según la evolución y las necesidades específicas de cada paciente."
+        }
+      }
+    },
+    "cta": {
+      "title": "¿Necesitas Ayuda Profesional?",
+      "description": "Nuestro equipo multidisciplinar está preparado para ofrecerte la atención especializada que necesitas.",
+      "button": "Pide una Visita"
+    }
+  },
+  "neuropsychology": {
+    "hero": {
+      "title": "Neuropsicología y",
+      "titleHighlight": "Cognición",
+      "description": "Ciencia que estudia la relación entre el funcionamiento del cerebro y los procesos cognitivos, emocionales y conductuales. Se enfoca en comprender cómo las lesiones o disfunciones cerebrales afectan las capacidades mentales y el comportamiento humano."
+    },
+    "images": {
+      "hero": "Neuropsicología"
+    },
+    "specialist": {
+      "title": "Especialista en",
+      "titleHighlight": "Neuropsicología",
+      "name": "Dra. Isabel",
+      "role": "Neuropsicóloga · Col.núm XXXX COPC",
+      "description": "Su experiencia en evaluación y rehabilitación neuropsicológica permite ofrecer un diagnóstico preciso y un tratamiento personalizado para cada paciente, combinando diferentes técnicas terapéuticas según las necesidades individuales.",
+      "imageAlt": "Dra. Isabel",
+      "link": "Conocer más sobre nuestro equipo"
+    },
+    "warningSigns": {
+      "title": "Principales",
+      "titleHighlight": "Señales de Alarma",
+      "description": "La detección precoz de los síntomas es crucial para un diagnóstico y tratamiento efectivos. Estas son las principales señales de alarma que pueden indicar la necesidad de una evaluación neuropsicológica.",
+      "categories": {
+        "cognition": {
+          "title": "Cognición",
+          "items": [
+            "Desorientación en tiempo y espacio",
+            "Dificultad para aprender y retener información nueva",
+            "Problemas para encontrar palabras",
+            "Dificultad con cálculos mentales"
+          ]
+        },
+        "behavior": {
+          "title": "Conducta",
+          "items": [
+            "Irritabilidad y/o agresividad",
+            "Pérdida de iniciativa y apatía",
+            "Falta de empatía",
+            "Comportamientos repetitivos"
+          ]
+        },
+        "daily": {
+          "title": "Actividades Vida Diaria",
+          "items": [
+            "Dificultad con tareas complejas",
+            "Problemas para planificar",
+            "Abandono de actividades de ocio"
+          ]
+        }
+      }
+    },
+    "objectives": {
+      "title": "Nuestros",
+      "titleHighlight": "Objetivos",
+      "description": "La exploración neuropsicológica es una prueba complementaria que utiliza el neurólogo junto con otras pruebas para llegar a un diagnóstico clínico preciso.",
+      "types": {
+        "evaluation": {
+          "title": "Evaluación",
+          "description": "Evaluamos el funcionamiento cognitivo y conductual mediante pruebas estandarizadas para identificar déficits y hacer seguimiento de la evolución del paciente."
+        },
+        "rehabilitation": {
+          "title": "Rehabilitación",
+          "description": "Diseñamos programas terapéuticos personalizados para mejorar las capacidades cognitivas y la adaptación emocional y social."
+        },
+        "prevention": {
+          "title": "Prevención",
+          "description": "Ayudamos a reducir los riesgos de afectaciones neurológicas y promovemos hábitos saludables para proteger el funcionamiento cerebral."
+        }
+      }
+    },
+    "cta": {
+      "title": "¿Necesitas una Evaluación Neuropsicológica?",
+      "description": "Nuestro equipo especializado está preparado para realizar una evaluación completa y personalizada de tu caso.",
+      "button": "Pide una Visita"
+    }
+  },
+  "psychology": {
+    "hero": {
+      "title": "Psicología y",
+      "titleHighlight": "Terapia",
+      "description": "Utilizamos dos enfoques terapéuticos: la terapia cognitivo-conductual y la terapia sistémica, que nos ayudan a entender, enfrentar y resolver problemas de conducta, emocionales o relacionales."
+    },
+    "images": {
+      "hero": "Psicología"
+    },
+    "specialist": {
+      "title": "Especialista en",
+      "titleHighlight": "Psicología",
+      "name": "Maite Delsors Arasa",
+      "role": "Psicóloga Clínica · Núm. Colegiado COPC",
+      "description": "Especializada en terapia cognitivosocial y terapia de pareja, con amplia experiencia en evaluación y diagnóstico psicológico, terapias individuales, grupales, de pareja y familiares. Investigadora en aspectos psicológicos de los trastornos funcionales digestivos.",
+      "imageAlt": "Maite Delsors",
+      "link": "Conocer más sobre nuestro equipo"
+    },
+    "therapyTypes": {
+      "title": "Tipos de",
+      "titleHighlight": "Terapia",
+      "description": "Ofrecemos diferentes enfoques terapéuticos adaptados a las necesidades específicas de cada paciente, combinando técnicas y estrategias según cada caso.",
+      "types": {
+        "cognitive": {
+          "title": "Terapia Cognitivo-Conductual",
+          "description": "Enfoque estructurado que se centra en la relación entre pensamientos, emociones y comportamientos, con el objetivo de identificar y modificar patrones disfuncionales.",
+          "features": [
+            "Se centra en el presente y futuro",
+            "Terapia estructurada y de corta duración",
+            "Desarrollo de estrategias de afrontamiento"
+          ]
+        },
+        "systemic": {
+          "title": "Terapia Sistémica",
+          "description": "Enfoque que considera los problemas psicológicos como expresiones de alteraciones en las interacciones y patrones de comunicación dentro de los sistemas.",
+          "features": [
+            "Visión holística de la persona",
+            "Enfoque en las relaciones",
+            "Búsqueda de un nuevo equilibrio funcional"
+          ]
+        }
+      }
+    },
+    "application": {
+      "title": "Nuestra",
+      "titleHighlight": "Aplicación",
+      "description": "Nuestra aproximación terapéutica se adapta a las necesidades individuales de cada paciente, integrando diferentes técnicas y estrategias.",
+      "steps": {
+        "evaluation": {
+          "title": "Evaluación Individual",
+          "description": "Realizamos una evaluación completa para entender las necesidades específicas y diseñar el plan terapéutico más adecuado."
+        },
+        "therapy": {
+          "title": "Terapia Personalizada",
+          "description": "Combinamos diferentes enfoques terapéuticos según las necesidades de cada persona, adaptando las técnicas al caso específico."
+        },
+        "followup": {
+          "title": "Seguimiento Continuo",
+          "description": "Mantenemos un seguimiento regular para evaluar el progreso y ajustar el tratamiento según la evolución del paciente."
+        }
+      }
+    },
+    "cta": {
+      "title": "¿Necesitas Ayuda Profesional?",
+      "description": "Nuestro equipo especializado está preparado para ofrecerte el apoyo y la orientación que necesitas.",
+      "button": "Pide una Visita"
+    }
+  }
+}
