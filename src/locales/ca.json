@@ -148,28 +148,28 @@
         "name": "Dr. Xavier Batalla",
         "role": "Neuròleg i Psiquiatra",
         "especialidad": "Trastorns cognitius, malaltia d'Alzheimer, malaltia de Parkinson i altres demències",
-        "image": "/assets/drXavierBatalla.jpg",
+        "image": "/assets/medico3.jpg",
         "credentials": "15 anys d'experiència"
       },
       {
         "name": "Dra Isabel Gómez Ruiz",
         "role": "Neuropsicòloga",
         "especialidad": "Avaluació i diagnòstic de les alteracions cognitives de pacients amb malalties neurodegeneratives.",
-        "image": "/assets/isabel_gomez_foto.jpg",
+        "image": "/assets/medico1.jpg",
         "credentials": "12 anys d'experiència"
       },
       {
         "name": "Maite Delsors Arasa",
         "role": "Psicòloga Clínica",
         "especialidad": "Avaluació i diagnòstic psicològic, teràpies individuals, grupals, de parella i familiars.",
-        "image": "/assets/maite_delsors_foto.jpg",
+        "image": "/assets/medico2.jpg",
         "credentials": "10 anys d'experiència"
       },
       {
         "name": "Valentina Caicedo",
         "role": "Suport Administratiu",
         "especialidad": "Atenció al pacient, gestió de documentació mèdica, facturació i gestió d'assegurances.",
-        "image": "./assets/valentinaCaicedo.jpg",
+        "image": "/assets/medico4.jpg",
         "credentials": "13 anys d'experiència"
       }
     ]

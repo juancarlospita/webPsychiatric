@@ -5,12 +5,10 @@ import { Link } from "react-router-dom";
 
 export const TestAD8 = () => {
     const { t } = useTranslation();
-    const [currentSection, setCurrentSection] = useState(0);
     const [respuestas, setRespuestas] = useState({});
     const [showForm, setShowForm] = useState(false);
     const [testCompleted, setTestCompleted] = useState(false);
 
-    // Obtener las preguntas desde las traducciones
     const preguntas = t('testAD8.questions', { returnObjects: true });
 
     const manejarCambio = (item, valor) => {
@@ -24,41 +22,8 @@ export const TestAD8 = () => {
         (respuesta) => respuesta === "si"
     ).length;
 
-    const siguienteSeccion = () => {
-        const seccionActual = preguntas.slice(currentSection * 2, currentSection * 2 + 2);
-        const todasRespondidas = seccionActual.every(
-            (_, index) => respuestas[currentSection * 2 + index] !== undefined
-        );
-
-        if (todasRespondidas) {
-            if (currentSection < Math.ceil(preguntas.length / 2) - 1) {
-                setCurrentSection(currentSection + 1);
-            } else {
-                setTestCompleted(true);
-                if (puntuacionTotal >= 4) {
-                    const resultado = window.confirm(t('testAD8.recommendations.contact'));
-                    if (resultado) {
-                        setShowForm(false);
-                        setTimeout(() => {
-                            const contactSection = document.getElementById('contact-banner');
-                            if (contactSection) {
-                                window.scrollTo({
-                                    top: contactSection.offsetTop - 100,
-                                    behavior: 'smooth'
-                                });
-                            }
-                        }, 100);
-                    }
-                }
-            }
-        } else {
-            alert(t('testAD8.alerts.answerAll'));
-        }
-    };
-
     const reiniciarFormulario = () => {
         setRespuestas({});
-        setCurrentSection(0);
         setTestCompleted(false);
         setShowForm(false);
         window.scrollTo({
@@ -72,14 +37,9 @@ export const TestAD8 = () => {
         setTimeout(() => {
             const formElement = document.querySelector('.test-form-container');
             if (formElement) {
-                const windowHeight = window.innerHeight;
-                const elementHeight = formElement.getBoundingClientRect().height;
-                const headerOffset = 100; // Offset adicional para compensar el header
-                const offset = (windowHeight - elementHeight) / 2;
-                const elementPosition = formElement.getBoundingClientRect().top + window.pageYOffset;
-                
+                const headerOffset = 150; // Aumentado para compensar el navbar
                 window.scrollTo({
-                    top: Math.max(0, elementPosition - offset - headerOffset),
+                    top: formElement.offsetTop - headerOffset,
                     behavior: 'smooth'
                 });
             }
@@ -94,10 +54,9 @@ export const TestAD8 = () => {
 
     return (
         <div className="min-h-screen bg-gray-50 mt-36">
-            {/* Sección de introducción */}
             <section className="py-24 bg-white relative overflow-hidden">
                 <div className="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-blue-50 to-transparent"></div>
-                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
+                <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative">
                     <div className="max-w-3xl mx-auto text-center mb-16 px-4">
                         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
                             {t('testAD8.title')} <span className="text-blue-600">AD8</span>
@@ -162,65 +121,85 @@ export const TestAD8 = () => {
                 </div>
             </section>
 
-            {/* Sección del Test */}
             {showForm && !testCompleted && (
                 <section className="py-14 bg-gray-50">
-                    <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 test-form-container">
-                        <div className="bg-white p-6 md:p-8 rounded-2xl shadow-lg relative">
-                            <button 
-                                onClick={() => setShowForm(false)}
-                                className="absolute top-3 right-3 md:top-4 md:right-4 text-gray-400 hover:text-gray-600"
-                                aria-label="Cerrar test"
-                            >
-                                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 md:h-6 md:w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-                                </svg>
-                            </button>
-                            {preguntas.slice(currentSection * 2, currentSection * 2 + 2).map((pregunta, index) => (
-                                <div key={index} className="mb-6 md:mb-8 last:mb-0">
-                                    <p className="text-base md:text-lg text-gray-900 font-medium mb-3 md:mb-4">{pregunta}</p>
-                                    <div className="space-y-2 md:space-y-3">
-                                        {opciones.map((option) => (
-                                            <label
-                                                key={option.value}
-                                                className="flex items-center p-3 md:p-4 rounded-xl border border-gray-200 hover:bg-blue-50 cursor-pointer"
-                                            >
-                                                <input
-                                                    type="radio"
-                                                    name={`item${currentSection * 2 + index}`}
-                                                    value={option.value}
-                                                    checked={respuestas[currentSection * 2 + index] === option.value}
-                                                    onChange={() => manejarCambio(currentSection * 2 + index, option.value)}
-                                                    className="w-4 h-4 accent-blue-600"
-                                                />
-                                                <span className="ml-3 text-gray-700">
-                                                    {option.label}
-                                                </span>
-                                            </label>
-                                        ))}
-                                    </div>
-                                </div>
-                            ))}
-
-                            <div className="mt-8 text-center">
-                                <button
-                                    onClick={siguienteSeccion}
-                                    className="px-8 py-4 bg-blue-600 text-white rounded-xl font-medium hover:bg-blue-700 shadow-lg"
+                    <div className="test-form-container">
+                        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+                            <div className="bg-white p-6 md:p-8 rounded-2xl shadow-lg relative">
+                                <button 
+                                    onClick={() => setShowForm(false)}
+                                    className="absolute top-3 right-3 md:top-4 md:right-4 text-gray-400 hover:text-gray-600"
+                                    aria-label="Cerrar test"
                                 >
-                                    {currentSection < Math.ceil(preguntas.length / 2) - 1
-                                        ? t('testAD8.buttons.next')
-                                        : t('testAD8.buttons.finish')}
+                                    <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 md:h-6 md:w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                                    </svg>
                                 </button>
+                                {preguntas.map((pregunta, index) => (
+                                    <div key={index} className="mb-6 md:mb-8 last:mb-0">
+                                        <p className="text-base md:text-lg text-gray-900 font-medium mb-3 md:mb-4">{pregunta}</p>
+                                        <div className="space-y-2 md:space-y-3">
+                                            {opciones.map((option) => (
+                                                <label
+                                                    key={option.value}
+                                                    className="flex items-center p-3 md:p-4 rounded-xl border border-gray-200 hover:bg-blue-50 cursor-pointer"
+                                                >
+                                                    <input
+                                                        type="radio"
+                                                        name={`item${index}`}
+                                                        value={option.value}
+                                                        checked={respuestas[index] === option.value}
+                                                        onChange={() => manejarCambio(index, option.value)}
+                                                        className="w-4 h-4 accent-blue-600"
+                                                    />
+                                                    <span className="ml-3 text-gray-700">
+                                                        {option.label}
+                                                    </span>
+                                                </label>
+                                            ))}
+                                        </div>
+                                    </div>
+                                ))}
+
+                                <div className="mt-8 text-center">
+                                    <button
+                                        onClick={() => {
+                                            const todasRespondidas = preguntas.every((_, index) => respuestas[index] !== undefined);
+                                            if (todasRespondidas) {
+                                                setTestCompleted(true);
+                                                if (puntuacionTotal >= 4) {
+                                                    const resultado = window.confirm(t('testAD8.recommendations.contact'));
+                                                    if (resultado) {
+                                                        setShowForm(false);
+                                                        setTimeout(() => {
+                                                            const contactSection = document.getElementById('contact-banner');
+                                                            if (contactSection) {
+                                                                window.scrollTo({
+                                                                    top: contactSection.offsetTop - 100,
+                                                                    behavior: 'smooth'
+                                                                });
+                                                            }
+                                                        }, 100);
+                                                    }
+                                                }
+                                            } else {
+                                                alert(t('testAD8.alerts.answerAll'));
+                                            }
+                                        }}
+                                        className="px-8 py-4 bg-blue-600 text-white rounded-xl font-medium hover:bg-blue-700 shadow-lg"
+                                    >
+                                        {t('testAD8.buttons.finish')}
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </section>
             )}
 
-            {/* Sección de Resultados */}
             {testCompleted && (
                 <section className="py-24 bg-gray-50">
-                    <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+                    <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
                         <div className="bg-white p-8 rounded-2xl shadow-lg">
                             <h2 className="text-3xl font-bold text-gray-900 mb-8">
                                 {t('testAD8.results.title')}
@@ -244,9 +223,8 @@ export const TestAD8 = () => {
                 </section>
             )}
 
-            {/* Banner de Contacto */}
             <section id="contact-banner" className="py-24 bg-white">
-                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div className="container mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="bg-white relative overflow-hidden rounded-2xl shadow-lg border border-blue-100">
                         <div className="absolute top-0 right-0 w-1/2 h-full bg-blue-50"></div>
                         <div className="relative px-8 py-12">

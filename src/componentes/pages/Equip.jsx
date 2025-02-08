@@ -141,17 +141,17 @@ export const Equip = () => {
                         {t('teams.specialists.title')} <span className="text-blue-600">{t('teams.specialists.titleHighlight')}</span>
                     </h2>
 
-                    <div className="grid lg:grid-cols-2 gap-12">
+                    <div className="grid lg:grid-cols-2 gap-8">
                         {/* Isabel Gómez-Ruiz */}
                         <div className="bg-white rounded-2xl shadow-lg overflow-hidden group hover:shadow-xl transition-all">
                             <div className="md:flex">
                                 <div className="md:w-2/5">
-                                    <div className="relative h-full">
-                                        <div className="absolute inset-0 bg-blue-600/90 transform -skew-x-6"></div>
+                                    <div className="relative h-full w-full">
+                                        <div className="absolute inset-0 bg-blue-600/90 transform -skew-x-6 "></div>
                                         <img
-                                            src="./assets/isabel_gomez.JPG"
+                                            src="./assets/medico1.jpg"
                                             alt={t('teams.specialists.isabel.imageAlt')}
-                                            className="relative h-full w-full"
+                                            className="relative h-full w-full object-cover object-[60%]"
                                         />
                                     </div>
                                 </div>
@@ -186,9 +186,9 @@ export const Equip = () => {
                                     <div className="relative h-full lg:w-60">
                                         <div className="absolute inset-0 bg-blue-600/90 transform -skew-x-6"></div>
                                         <img
-                                            src="./assets/maite_delsors.JPG"
+                                            src="./assets/medico1.jpg"
                                             alt={t('teams.specialists.maite.imageAlt')}
-                                            className="relative h-full w-full object-cover"
+                                            className="relative h-full w-full object-cover object-[60%]"
                                         />
                                     </div>
                                 </div>

@@ -8,7 +8,7 @@ import {
   RxAccessibility,
 } from "react-icons/rx";
 
-// Declarar las URLs como constantes en lugar de importaciones
+
 const SpaceCity1 = "https://images.unsplash.com/photo-1590069261209-f8e9b8642343?ixlib=rb-4.0.3";
 const SpaceCity5 = "https://images.unsplash.com/photo-1504439904031-93ded9f93e4e?ixlib=rb-4.0.3";
 const SpaceCity6 = "https://images.unsplash.com/photo-1582719471384-894fbb16e074?ixlib=rb-4.0.3";
